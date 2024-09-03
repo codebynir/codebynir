@@ -1,4 +1,4 @@
-
+# Hi there 👋, I'm [Nirmal Choudhary] !
 # 💫 About Me:
 👨‍💻 I'm a computer science student passionate about full-stack development.<br>🌱 Currently exploring Java Core & Advanced with Spring Boot and Oracle Database.<br>💻 Working on web development projects using HTML, CSS, JavaScript, and ReactJS.<br>🚀 Always eager to learn new technologies and take on challenges.<br>🤝 Open to collaborating on interesting projects and contributing to open-source.<br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nirmal-choudhary1/) | [Email](mailto:nirmal.choudhary.dev@gmail.com)
 
