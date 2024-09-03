@@ -5,8 +5,7 @@
 <br><br>
 # 💫 About Me:<br>
 👨‍💻 Aspiring Full-Stack Development.<br>🌱 Currently exploring Java Core & Advanced with Spring Boot and Oracle Database.<br>💻 Working on web development projects using HTML, CSS, JavaScript, and ReactJS.<br>🚀 Always eager to learn new technologies and take on challenges.<br>🤝 Open to collaborating on interesting projects and contributing to open-source.<br>
-<br>📫 How to reach me: [LinkedIn]-https://www.linkedin.com/in/nirmal-choudhary1 | [Email]-nirmal.choudhary.dev@gmail.com
-
+<br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nirmal-choudhary1/) | [Email](mailto:nirmal.choudhary.dev@gmail.com)
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/nirmal-choudhary1/) [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/codebynir)
