@@ -8,13 +8,6 @@
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=flat&logo=oracle&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-# 📈 Contribution Graph:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213476196-c094bfe6-2fdf-4de7-928f-e33126f82573.gif" alt="Coder Life" width="600"/>
+</p>
