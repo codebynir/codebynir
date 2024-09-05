@@ -4,7 +4,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 <br><br>
 # 💫 About Me:<br>
-👨‍💻 Aspiring Full-Stack Java Developer.<br>🌱 Currently exploring Java Core & Advanced with Spring Boot and Oracle Database.<br>💻 Working on web development projects using HTML, CSS, JavaScript, and ReactJS.<br>🚀 Always eager to learn new technologies and take on challenges.<br>🤝 Open to collaborating on interesting projects and contributing to open-source.<br>
+👨‍💻 Aspiring Full-Stack Java Developer.<br>🌱 Currently exploring Java Core & Advanced with Spring Boot and Oracle Database.<br>💻 Working on web development projects using HTML, CSS, JavaScript, and ReactJS.<br>🚀 Always eager to learn new technologies and take on challenges.<br>🤝 Open to collaborating on interesting projects.<br>
 <br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nirmal-choudhary1/) | [Email](mailto:nirmal.choudhary.dev@gmail.com)
 
 # 🌐 Socials:
